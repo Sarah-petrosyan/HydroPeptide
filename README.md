@@ -1,38 +1,34 @@
+<div align="center">
+
 # HydroPeptide Website
 
-A responsive skincare brand website built using **HTML and CSS**.
+**A modern and responsive skincare landing page inspired by a beauty brand.**
 
+[**➥ Live Demo**](https://sarah-petrosyan.github.io/HydroPeptide/)
+
+</div>
+
+---
 
 ## About the Project
 
-HydroPeptide Website is a modern and responsive webpage inspired by a skincare or beauty brand website.  
-The project focuses on creating a visually clean layout with structured sections commonly used in product or beauty brand websites.
+This project is a clean and responsive website inspired by a skincare and beauty brand.  
+The page highlights product-focused design with a modern layout, visually appealing sections, and a user-friendly structure that showcases beauty and skincare content.
 
-The page includes sections such as product highlights, brand information, and blog content.
+It was built to practice front-end development fundamentals while focusing on layout design, responsive structure, and styling.
 
----
-
-## Features
-
-- Responsive design for desktop, tablet, and mobile
-- Clean and modern layout
-- Multiple structured sections including product and blog areas
-- Built entirely with HTML and CSS
-- No JavaScript functionality implemented yet
+✅ Built with **HTML & CSS**  
+✅ Fully responsive layout  
+✅ Clean UI inspired by modern beauty brand websites  
+✅ Beginner-friendly front-end project
 
 ---
 
-## Technologies Used
-
-- HTML5
-- CSS3
-
+---
 
 ## Getting Started
 
-Make sure you have **Git** installed on your computer.
-
-Clone the repository:
+Make sure you have [Git](https://git-scm.com/downloads) installed. Then run:
 
 ```bash
-git clone https://github.com/Sarah-petrosyan/HydroPeptide-Website.git
+git clone https://github.com/Sarah-petrosyan/HydroPeptide.git
